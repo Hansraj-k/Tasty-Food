@@ -265,7 +265,9 @@ img{
   color: var(--title-color);
   margin-bottom: var(--mb-4);
 }
-
+img.img {
+    height: 100px;
+}
 .home__img{
   width: 300px;
   justify-self: center;
